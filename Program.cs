@@ -83,7 +83,6 @@ namespace ConsoleApp_StreamTest
                     System.Threading.Thread.Sleep(500);
 
                 }
-
             }
 
         }
